@@ -60,7 +60,6 @@ Se precisar de ajuda, entre em contato através dos seguintes canais:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=psam1993&show_icons=true&locale=en&layout=compact" alt="psam1993" />
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=psam1993&show_icons=true&locale=en&layout=compact" alt="psam1993" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=psam1993&show_icons=true&locale=en" alt="psam1993" /></p>
 
