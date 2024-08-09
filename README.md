@@ -59,6 +59,6 @@ Se precisar de ajuda, entre em contato através dos seguintes canais:
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=psam1993&show_icons=true&locale=en&layout=compact" alt="psam1993" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=psam1993&show_icons=true&locale=en" alt="psam1993" />
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=psam1993&" alt="psam1993" />
+    <img src="https://github-readme-stats.vercel.app/api?username=psam1993&show_icons=true&locale=en" alt="psam1993" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=psam1993&" alt="psam1993" />
 </p>
